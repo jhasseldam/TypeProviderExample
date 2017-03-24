@@ -1,0 +1,20 @@
+Hello : "World"
+Foo : "Bar"
+Trade : "USD/EUR"
+Price : 10.2564
+Amount : 42.00
+
+Duration : "00:00:10"
+
+Currencies: 
+  USD : "United States Dollar"
+  EUR : "Euro "
+  DKK : "Danish Kroner"
+  NOK : "Norwegian Kroner"
+  SEK : "Swedish Kroner"
+
+Muppets: 
+  - Kermit
+  - Gonzo
+  - Miss Piggy
+  - Animal

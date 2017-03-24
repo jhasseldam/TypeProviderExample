@@ -1,0 +1,8 @@
+source http://10.87.97.34/nuget/FXCore
+
+framework: net461
+
+nuget FSharp.Configuration
+nuget Npgsql 3.1.9
+nuget SQLProvider
+nuget FsYaml

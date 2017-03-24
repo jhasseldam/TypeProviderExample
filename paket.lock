@@ -1,0 +1,10 @@
+FRAMEWORK: NET461
+NUGET
+  remote: http://10.87.97.34/nuget/FXCore
+    FSharp.Configuration (0.6.4)
+    FsYaml (2.1.0)
+      FSharp.Configuration (>= 0.4.10)
+      YamlDotNet (>= 3.8)
+    Npgsql (3.1.9)
+    SQLProvider (1.0.43)
+    YamlDotNet (4.1.0)
